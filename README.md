@@ -212,7 +212,6 @@ Predictions are generated using the SageMaker runtime API.
 
 Example:
 
-```
 runtime.invoke_endpoint()
 
 # Monitoring
