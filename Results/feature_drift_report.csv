@@ -1,0 +1,9 @@
+feature,psi,status
+dcoilwtico,11.513244807792109,significant drift
+month,0.10217614237822695,moderate drift
+transactions,0.05833220539940963,stable
+day,0.0008473579485943457,stable
+year,0.0,stable
+is_weekend,0.0,stable
+onpromotion,0.0,stable
+is_earthquake_period,0.0,stable
