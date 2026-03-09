@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+pyathena
+xgboost
+sagemaker 2.257.1
+boto3
+sklearn
